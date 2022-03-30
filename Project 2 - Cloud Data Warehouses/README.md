@@ -1,4 +1,4 @@
-<h2><b>Introduction</b></h2>
+<h1><b>Introduction</b></h1>
 <p>
     The objective of this project is to ETL a dataset in JSON format stored in an AWS S3 bucket for the Sparkify startup music project, the steps consist of extracting the JSON files to two stage tables on a base redshift, from this structure build fact and dimension tables for correct data loading in each table.
     </p>
